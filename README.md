@@ -13,7 +13,7 @@
 作成環境から出る
 `conda deactivate`
 
-作成された環境のデータは下記
+作成された環境のデータ
 `C:\Users\{userName}\anaconda3\envs\env`
 
 現在インストールされたライブラリの確認
