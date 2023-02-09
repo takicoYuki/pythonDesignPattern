@@ -1,6 +1,6 @@
 # pythonDesignPattern
 
-###環境構築
+# 環境構築
 ---
 [anacondaインストール][https://www.python.jp/install/anaconda/]
 
